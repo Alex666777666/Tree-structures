@@ -13,6 +13,10 @@ ul > li:last-child > span {
 li:nth-child(even) > span {
   margin-left: 16px;
 }
-p:nth-child(odd) {
+
+p:nth-child(1) {
+  background-color: gray;
+}
+p:nth-child(4) {
   background-color: gray;
 }
